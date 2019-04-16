@@ -1,0 +1,22 @@
+main{
+    clear:both;
+}
+
+.main-container{
+    width:95%;
+    margin: 0 auto;
+    margin-top:70px;
+}
+.right{
+    float:left;
+    width:70%;
+    height:400px;
+    margin-bottom:40px;
+}
+
+.left{
+    float:left;
+    width:30%;
+    height:400px;
+    margin-bottom:40px;
+}
