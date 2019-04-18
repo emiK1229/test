@@ -2,8 +2,8 @@
 public class test {
 
 	public static void main(String[] args) {
-    String b = "山田";
-    if(b.equals("山田")){
-    System.out.println(b+"さん");
+    for(int i=0; i<=5; i++){
+    	String b = i % 2 == 0 ?"☆":"★";
+    System.out.println(b);
     }
 	}}
